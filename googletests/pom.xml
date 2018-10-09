@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>googletests_maven</groupId>
+  <artifactId>googletests</artifactId>
+  <version>1.0</version>
+
+  <name>${project.artifactId}</name>
+  <description>Automation test framework for Google. Java + Selenium + TestNG + log4j2 + Maven + Allure.</description>
+
+  <developers>
+    <developer>
+    	<id>yaroslav.romanovich</id>
+        <name>Yaroslav Romanovich</name>
+        <email>yaroslav.romanovich@gmail.comm</email>
+        <organization>Akvelon</organization>
+        <organizationUrl>http://akvelon.com</organizationUrl>
+        <roles>
+        	<role>QA engineer</role>
+        </roles>
+    </developer>
+  </developers>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <compiler.version>1.8</compiler.version>
+    
+    <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
+    <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
+    <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
+    <maven-site-plugin.version>3.7.1</maven-site-plugin.version>
+    
+    <commons-io.version>2.6</commons-io.version>
+    <selenium-java.version>3.14.0</selenium-java.version>
+    <testng.version>6.8</testng.version>
+     
+    <log4j-api.version>2.11.1</log4j-api.version>
+    <log4j-core.version>2.11.1</log4j-core.version>
+    
+    <poi.version>4.0.0</poi.version>
+    <poi-ooxml.version>4.0.0</poi-ooxml.version>
+    <poi-ooxml-schemas.version>4.0.0</poi-ooxml-schemas.version>
+    <poi-scratchpad.version>4.0.0</poi-scratchpad.version>
+    
+    <aspectj.version>1.8.10</aspectj.version>
+    <allure-maven-plugin.version>2.6</allure-maven-plugin.version>
+    <allure-testng-adaptor.version>1.5.4</allure-testng-adaptor.version>
+    <jetty-maven-plugin.version>9.4.12.v20180830</jetty-maven-plugin.version>
+    
+    <slf4j-api.version>1.7.5</slf4j-api.version>
+    <slf4j-simple.version>1.6.4</slf4j-simple.version>
+  </properties>
+
+  <dependencies>
+    <dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+    	<artifactId>selenium-java</artifactId>
+    	<version>${selenium-java.version}</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.testng</groupId>
+    	<artifactId>testng</artifactId>
+    	<version>${testng.version}</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-api</artifactId>
+    	<version>${log4j-api.version}</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.logging.log4j</groupId>
+    	<artifactId>log4j-core</artifactId>
+    	<version>${log4j-core.version}</version>
+  	</dependency>
+  	<dependency>
+    	<groupId>org.apache.poi</groupId>
+    	<artifactId>poi</artifactId>
+    	<version>${poi.version}</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.poi</groupId>
+    	<artifactId>poi-ooxml</artifactId>
+    	<version>${poi-ooxml.version}</version>
+    </dependency>
+    <dependency>
+    	<groupId>org.apache.poi</groupId>
+    	<artifactId>poi-ooxml-schemas</artifactId>
+        <version>${poi-ooxml-schemas.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.poi</groupId>
+        <artifactId>poi-scratchpad</artifactId>
+        <version>${poi-scratchpad.version}</version>
+    </dependency>
+    <dependency>
+  		<groupId>commons-io</groupId>
+  		<artifactId>commons-io</artifactId>
+  		<version>${commons-io.version}</version>
+	</dependency>
+	<dependency>
+    	<groupId>ru.yandex.qatools.allure</groupId>
+        <artifactId>allure-testng-adaptor</artifactId>
+        <version>${allure-testng-adaptor.version}</version>
+    </dependency>
+    <dependency>
+       	<groupId>ru.yandex.qatools.allure</groupId>
+        <artifactId>allure-maven-plugin</artifactId>
+        <version>${allure-maven-plugin.version}</version>
+    </dependency>
+    <dependency>
+       	<groupId>org.slf4j</groupId>
+       	<artifactId>slf4j-api</artifactId>
+      	<version>${slf4j-api.version}</version>
+   </dependency>
+   <dependency>
+       	<groupId>org.slf4j</groupId>
+       	<artifactId>slf4j-simple</artifactId>
+       	<version>${slf4j-simple.version}</version>
+   </dependency>   
+  </dependencies>
+
+  <build>
+    <pluginManagement>
+      <plugins>
+      	<plugin>
+        	<artifactId>maven-antrun-plugin</artifactId>
+        	<version>1.8</version>
+        	<executions>
+            	<execution>
+            		<id>copy-env</id>
+                	<phase>test</phase>
+                	<configuration>
+                    	<target>
+                        	<copy file="${project.basedir}/src/test/resources/environment.xml" overwrite="true" todir="${project.build.directory}/allure-results"/>
+                    	</target>
+                	</configuration>
+                	<goals>
+                    	<goal>run</goal>
+                	</goals>
+            	</execution>
+        	</executions>
+    	</plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-clean-plugin</artifactId>
+          <version>${maven-clean-plugin.version}</version>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>${maven-compiler-plugin.version}</version>
+        </plugin>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>${maven-surefire-plugin.version}</version>
+          <configuration>
+          	<suiteXmlFiles>
+          		<suiteXmlFile>testng.xml</suiteXmlFile>
+          	</suiteXmlFiles>
+          	<testFailureIgnore>true</testFailureIgnore>
+          	<argLine>
+                -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+            </argLine>
+          </configuration>
+          <dependencies>
+          	<dependency>
+            	<groupId>org.aspectj</groupId>
+                <artifactId>aspectjweaver</artifactId>
+                <version>${aspectj.version}</version>
+          	</dependency>
+          </dependencies>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+  </build>
+  
+  <reporting>
+  	<excludeDefaults>true</excludeDefaults>
+    <plugins> 
+   		<plugin>
+        	<groupId>ru.yandex.qatools.allure</groupId>
+            <artifactId>allure-maven-plugin</artifactId>
+            <version>${allure-maven-plugin.version}</version>
+            <configuration>
+            	<reportDirectory>${basedir}/target/allure-reports/</reportDirectory>
+            </configuration>
+         </plugin>
+    </plugins>
+  </reporting>
+</project>

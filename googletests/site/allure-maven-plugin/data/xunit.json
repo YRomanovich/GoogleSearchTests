@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1538653218325,
+    "stop" : 1538653220013,
+    "duration" : 1688
+  },
+  "testSuites" : [ {
+    "uid" : "304969f8297708c3",
+    "name" : "Test Google - Suite : GoogleTestsFireFox[stringToSearch=Facebook, serchResultsCount=6, browser=firefox]",
+    "title" : "Test Google - Suite : GoogleTestsFireFox[stringToSearch=Facebook, serchResultsCount=6, browser=firefox]",
+    "time" : {
+      "start" : 1538653218325,
+      "stop" : 1538653220013,
+      "duration" : 1688
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "501aec0584763d4",
+      "name" : "landingPageIsOpened",
+      "title" : "Landing page is opened",
+      "time" : {
+        "start" : 1538653218325,
+        "stop" : 1538653220013,
+        "duration" : 1688
+      },
+      "severity" : "BLOCKER",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

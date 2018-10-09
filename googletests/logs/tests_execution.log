@@ -1,0 +1,241 @@
+05 Oct 2018 17:43:10.414 [INFO] [setUpDriver] FireFox driver is used 
+ 05 Oct 2018 17:43:10.484 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 05 Oct 2018 17:43:10.485 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:10.485 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:10.486 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 landingPageIsOpened       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 05 Oct 2018 17:43:10.486 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:10.486 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:10.510 [INFO] [beforeMethod] All cookies was deleted before test 
+ 05 Oct 2018 17:43:10.510 [INFO] [onTestStart] Test started 
+ 05 Oct 2018 17:43:10.563 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 05 Oct 2018 17:43:12.496 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 05 Oct 2018 17:43:12.504 [INFO] [onTestSuccess] Test landingPageIsOpened PASSED 
+ 05 Oct 2018 17:43:12.504 [INFO] [onTestSuccess] Priority of this test is 1 
+ 05 Oct 2018 17:43:13.188 [INFO] [afterMethod] Browser was closed 
+ 05 Oct 2018 17:43:13.188 [INFO] [afterMethod] All cookies was deleted after test 
+ 05 Oct 2018 17:43:13.188 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:13.188 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:13.188 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:13.189 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:13.189 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:13.189 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:16.671 [INFO] [setUpDriver] FireFox driver is used 
+ 05 Oct 2018 17:43:16.701 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 05 Oct 2018 17:43:16.701 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:16.702 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:16.702 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 searchPageIsOpened       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 05 Oct 2018 17:43:16.702 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:16.702 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:16.713 [INFO] [beforeMethod] All cookies was deleted before test 
+ 05 Oct 2018 17:43:16.714 [INFO] [onTestStart] Test started 
+ 05 Oct 2018 17:43:16.766 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 05 Oct 2018 17:43:18.656 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 05 Oct 2018 17:43:18.657 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:18.669 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:18.690 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 05 Oct 2018 17:43:18.701 [INFO] [afterChangeValueOf] Value for element was changed 
+ 05 Oct 2018 17:43:18.702 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:18.709 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:18.710 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 05 Oct 2018 17:43:18.740 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 05 Oct 2018 17:43:18.740 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 05 Oct 2018 17:43:18.749 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 05 Oct 2018 17:43:18.750 [INFO] [beforeClickOn] Try to click on found element 
+ 05 Oct 2018 17:43:21.449 [INFO] [afterClickOn] Click on found element 
+ 05 Oct 2018 17:43:21.507 [INFO] [onTestSuccess] Test searchPageIsOpened PASSED 
+ 05 Oct 2018 17:43:21.507 [INFO] [onTestSuccess] Priority of this test is 2 
+ 05 Oct 2018 17:43:22.173 [INFO] [afterMethod] Browser was closed 
+ 05 Oct 2018 17:43:22.173 [INFO] [afterMethod] All cookies was deleted after test 
+ 05 Oct 2018 17:43:22.173 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:22.173 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:22.173 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:22.174 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:22.174 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:22.174 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:25.595 [INFO] [setUpDriver] FireFox driver is used 
+ 05 Oct 2018 17:43:25.617 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 05 Oct 2018 17:43:25.617 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:25.617 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:25.617 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 searchTextParameters       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 05 Oct 2018 17:43:25.617 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:25.617 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:25.642 [INFO] [beforeMethod] All cookies was deleted before test 
+ 05 Oct 2018 17:43:25.643 [INFO] [onTestStart] Test started 
+ 05 Oct 2018 17:43:25.648 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 05 Oct 2018 17:43:27.156 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 05 Oct 2018 17:43:27.156 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:27.169 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:27.169 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 05 Oct 2018 17:43:27.178 [INFO] [afterChangeValueOf] Value for element was changed 
+ 05 Oct 2018 17:43:27.178 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:27.186 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:27.186 [INFO] [beforeChangeValueOf] Try to changes value for element to Microsoft 
+ 05 Oct 2018 17:43:27.220 [INFO] [afterChangeValueOf] Value for element was changedMicrosoft 
+ 05 Oct 2018 17:43:27.220 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 05 Oct 2018 17:43:27.229 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 05 Oct 2018 17:43:27.229 [INFO] [beforeClickOn] Try to click on found element 
+ 05 Oct 2018 17:43:28.443 [INFO] [afterClickOn] Click on found element 
+ 05 Oct 2018 17:43:28.447 [INFO] [beforeFindBy] Try to find element by By.xpath: //*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3 selector 
+ 05 Oct 2018 17:43:28.459 [INFO] [afterFindBy] Element was found by By.xpath: //*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3 selector 
+ 05 Oct 2018 17:43:28.471 [INFO] [beforeFindBy] Try to find element by By.id: logo selector 
+ 05 Oct 2018 17:43:28.477 [INFO] [afterFindBy] Element was found by By.id: logo selector 
+ 05 Oct 2018 17:43:28.542 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:28.562 [INFO] [afterGetText] Text Microsoft – ???????? ??????? ???????? was taken from the found element 
+ 05 Oct 2018 17:43:28.563 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:28.572 [INFO] [afterGetText] Text Microsoft Office | ?????????????? ????? ?? ?? ?????? was taken from the found element 
+ 05 Oct 2018 17:43:28.573 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:28.583 [INFO] [afterGetText] Text Microsoft — ????????? was taken from the found element 
+ 05 Oct 2018 17:43:28.583 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:28.593 [INFO] [afterGetText] Text Microsoft — ????????? was taken from the found element 
+ 05 Oct 2018 17:43:28.593 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:28.603 [INFO] [afterGetText] Text Windows Blog was taken from the found element 
+ 05 Oct 2018 17:43:28.603 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:28.614 [INFO] [afterGetText] Text Microsoft (@Microsoft) | Twitter was taken from the found element 
+ 05 Oct 2018 17:43:28.618 [INFO] [onTestFailure] Test searchTextParameters FAILED 
+ 05 Oct 2018 17:43:28.618 [INFO] [onTestFailure] Priority of this test is 3 
+ 05 Oct 2018 17:43:28.618 [INFO] [beforeGetScreenshotAs] Try to tacke a screenshot 
+ 05 Oct 2018 17:43:28.761 [INFO] [afterGetScreenshotAs] Screenshot was taken 
+ 05 Oct 2018 17:43:28.762 [INFO] [beforeGetScreenshotAs] Try to tacke a screenshot 
+ 05 Oct 2018 17:43:28.882 [INFO] [afterGetScreenshotAs] Screenshot was taken 
+ 05 Oct 2018 17:43:29.106 [INFO] [onTestFailure] Screenshot was taken to C:\Users\jaroslaw.romanovich\eclipse-workspace\MavenProject\googletests\target\screenshots\failure_screenshots\05_10_2018\searchTextParameters_05_10_2018_05_43_28.png 
+ 05 Oct 2018 17:43:29.934 [INFO] [afterMethod] Browser was closed 
+ 05 Oct 2018 17:43:29.934 [INFO] [afterMethod] All cookies was deleted after test 
+ 05 Oct 2018 17:43:29.934 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:29.934 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:29.935 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:29.935 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:29.935 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:29.935 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:33.363 [INFO] [setUpDriver] FireFox driver is used 
+ 05 Oct 2018 17:43:33.385 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 05 Oct 2018 17:43:33.385 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:33.385 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:33.386 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 navigateToLandingPageByLogo       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 05 Oct 2018 17:43:33.386 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:33.386 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:33.407 [INFO] [beforeMethod] All cookies was deleted before test 
+ 05 Oct 2018 17:43:33.407 [INFO] [onTestStart] Test started 
+ 05 Oct 2018 17:43:33.412 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 05 Oct 2018 17:43:34.738 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 05 Oct 2018 17:43:34.738 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:34.747 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:34.748 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 05 Oct 2018 17:43:34.756 [INFO] [afterChangeValueOf] Value for element was changed 
+ 05 Oct 2018 17:43:34.757 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:34.764 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:34.765 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 05 Oct 2018 17:43:34.796 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 05 Oct 2018 17:43:34.796 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 05 Oct 2018 17:43:34.806 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 05 Oct 2018 17:43:34.806 [INFO] [beforeClickOn] Try to click on found element 
+ 05 Oct 2018 17:43:35.903 [INFO] [afterClickOn] Click on found element 
+ 05 Oct 2018 17:43:35.905 [INFO] [beforeFindBy] Try to find element by By.id: logo selector 
+ 05 Oct 2018 17:43:35.912 [INFO] [afterFindBy] Element was found by By.id: logo selector 
+ 05 Oct 2018 17:43:35.913 [INFO] [beforeClickOn] Try to click on found element 
+ 05 Oct 2018 17:43:36.335 [INFO] [afterClickOn] Click on found element 
+ 05 Oct 2018 17:43:36.339 [INFO] [onTestSuccess] Test navigateToLandingPageByLogo PASSED 
+ 05 Oct 2018 17:43:36.339 [INFO] [onTestSuccess] Priority of this test is 4 
+ 05 Oct 2018 17:43:37.044 [INFO] [afterMethod] Browser was closed 
+ 05 Oct 2018 17:43:37.045 [INFO] [afterMethod] All cookies was deleted after test 
+ 05 Oct 2018 17:43:37.045 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:37.045 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:37.045 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:37.045 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:37.045 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:37.045 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:38.175 [INFO] [searchResults] Data provider was set up 
+ 05 Oct 2018 17:43:41.540 [INFO] [setUpDriver] FireFox driver is used 
+ 05 Oct 2018 17:43:41.559 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 05 Oct 2018 17:43:41.559 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:41.559 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:41.559 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 searchTextDataProvider       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 05 Oct 2018 17:43:41.559 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:41.559 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:41.588 [INFO] [beforeMethod] All cookies was deleted before test 
+ 05 Oct 2018 17:43:41.588 [INFO] [onTestStart] Test started 
+ 05 Oct 2018 17:43:41.592 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 05 Oct 2018 17:43:43.158 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 05 Oct 2018 17:43:43.159 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:43.169 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:43.169 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 05 Oct 2018 17:43:43.176 [INFO] [afterChangeValueOf] Value for element was changed 
+ 05 Oct 2018 17:43:43.177 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:43.325 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:43.325 [INFO] [beforeChangeValueOf] Try to changes value for element to Facebook 
+ 05 Oct 2018 17:43:43.354 [INFO] [afterChangeValueOf] Value for element was changedFacebook 
+ 05 Oct 2018 17:43:43.354 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 05 Oct 2018 17:43:43.362 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 05 Oct 2018 17:43:43.362 [INFO] [beforeClickOn] Try to click on found element 
+ 05 Oct 2018 17:43:44.350 [INFO] [afterClickOn] Click on found element 
+ 05 Oct 2018 17:43:44.352 [INFO] [beforeFindBy] Try to find element by By.xpath: //*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3 selector 
+ 05 Oct 2018 17:43:44.366 [INFO] [afterFindBy] Element was found by By.xpath: //*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3 selector 
+ 05 Oct 2018 17:43:44.368 [INFO] [onTestFailure] Test searchTextDataProvider FAILED 
+ 05 Oct 2018 17:43:44.369 [INFO] [onTestFailure] Priority of this test is 5 
+ 05 Oct 2018 17:43:44.369 [INFO] [beforeGetScreenshotAs] Try to tacke a screenshot 
+ 05 Oct 2018 17:43:44.453 [INFO] [afterGetScreenshotAs] Screenshot was taken 
+ 05 Oct 2018 17:43:44.453 [INFO] [beforeGetScreenshotAs] Try to tacke a screenshot 
+ 05 Oct 2018 17:43:44.538 [INFO] [afterGetScreenshotAs] Screenshot was taken 
+ 05 Oct 2018 17:43:44.564 [INFO] [onTestFailure] Screenshot was taken to C:\Users\jaroslaw.romanovich\eclipse-workspace\MavenProject\googletests\target\screenshots\failure_screenshots\05_10_2018\searchTextDataProvider_05_10_2018_05_43_44.png 
+ 05 Oct 2018 17:43:45.232 [INFO] [afterMethod] Browser was closed 
+ 05 Oct 2018 17:43:45.233 [INFO] [afterMethod] All cookies was deleted after test 
+ 05 Oct 2018 17:43:45.233 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:45.233 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:45.233 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:45.233 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:45.233 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:45.234 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:48.634 [INFO] [setUpDriver] FireFox driver is used 
+ 05 Oct 2018 17:43:48.650 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 05 Oct 2018 17:43:48.650 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:48.650 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:48.650 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 searchTextDataProvider       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 05 Oct 2018 17:43:48.650 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:48.650 [INFO] [startTestCase] **************************************************************************************** 
+ 05 Oct 2018 17:43:48.675 [INFO] [beforeMethod] All cookies was deleted before test 
+ 05 Oct 2018 17:43:48.676 [INFO] [onTestStart] Test started 
+ 05 Oct 2018 17:43:48.679 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 05 Oct 2018 17:43:50.125 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 05 Oct 2018 17:43:50.125 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:50.136 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:50.137 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 05 Oct 2018 17:43:50.145 [INFO] [afterChangeValueOf] Value for element was changed 
+ 05 Oct 2018 17:43:50.146 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:50.155 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 05 Oct 2018 17:43:50.155 [INFO] [beforeChangeValueOf] Try to changes value for element to Microsoft 
+ 05 Oct 2018 17:43:50.187 [INFO] [afterChangeValueOf] Value for element was changedMicrosoft 
+ 05 Oct 2018 17:43:50.188 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 05 Oct 2018 17:43:50.197 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 05 Oct 2018 17:43:50.197 [INFO] [beforeClickOn] Try to click on found element 
+ 05 Oct 2018 17:43:51.263 [INFO] [afterClickOn] Click on found element 
+ 05 Oct 2018 17:43:51.265 [INFO] [beforeFindBy] Try to find element by By.xpath: //*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3 selector 
+ 05 Oct 2018 17:43:51.277 [INFO] [afterFindBy] Element was found by By.xpath: //*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3 selector 
+ 05 Oct 2018 17:43:51.281 [INFO] [beforeFindBy] Try to find element by By.id: logo selector 
+ 05 Oct 2018 17:43:51.287 [INFO] [afterFindBy] Element was found by By.id: logo selector 
+ 05 Oct 2018 17:43:51.312 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:51.332 [INFO] [afterGetText] Text Microsoft – ???????? ??????? ???????? was taken from the found element 
+ 05 Oct 2018 17:43:51.332 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:51.342 [INFO] [afterGetText] Text Microsoft Office | ?????????????? ????? ?? ?? ?????? was taken from the found element 
+ 05 Oct 2018 17:43:51.342 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:51.352 [INFO] [afterGetText] Text Microsoft — ????????? was taken from the found element 
+ 05 Oct 2018 17:43:51.352 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:51.367 [INFO] [afterGetText] Text Microsoft — ????????? was taken from the found element 
+ 05 Oct 2018 17:43:51.367 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:51.376 [INFO] [afterGetText] Text Windows Blog was taken from the found element 
+ 05 Oct 2018 17:43:51.377 [INFO] [beforeGetText] Try to get text from found element 
+ 05 Oct 2018 17:43:51.386 [INFO] [afterGetText] Text Microsoft (@Microsoft) | Twitter was taken from the found element 
+ 05 Oct 2018 17:43:51.387 [INFO] [onTestFailure] Test searchTextDataProvider FAILED 
+ 05 Oct 2018 17:43:51.387 [INFO] [onTestFailure] Priority of this test is 5 
+ 05 Oct 2018 17:43:51.387 [INFO] [beforeGetScreenshotAs] Try to tacke a screenshot 
+ 05 Oct 2018 17:43:51.514 [INFO] [afterGetScreenshotAs] Screenshot was taken 
+ 05 Oct 2018 17:43:51.515 [INFO] [beforeGetScreenshotAs] Try to tacke a screenshot 
+ 05 Oct 2018 17:43:51.634 [INFO] [afterGetScreenshotAs] Screenshot was taken 
+ 05 Oct 2018 17:43:51.688 [INFO] [onTestFailure] Screenshot was taken to C:\Users\jaroslaw.romanovich\eclipse-workspace\MavenProject\googletests\target\screenshots\failure_screenshots\05_10_2018\searchTextDataProvider_05_10_2018_05_43_51.png 
+ 05 Oct 2018 17:43:52.357 [INFO] [afterMethod] Browser was closed 
+ 05 Oct 2018 17:43:52.358 [INFO] [afterMethod] All cookies was deleted after test 
+ 05 Oct 2018 17:43:52.358 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:52.358 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:52.358 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:52.358 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 05 Oct 2018 17:43:52.358 [INFO] [endTestCase]                                                                                          
+ 05 Oct 2018 17:43:52.359 [INFO] [endTestCase]                                                                                          
+ 

@@ -1,0 +1,14 @@
+{
+  "testCases" : [ {
+    "uid" : "501aec0584763d4",
+    "name" : "landingPageIsOpened",
+    "title" : "Landing page is opened",
+    "time" : {
+      "start" : 1538653218325,
+      "stop" : 1538653220013,
+      "duration" : 1688
+    },
+    "severity" : "BLOCKER",
+    "status" : "PASSED"
+  } ]
+}
