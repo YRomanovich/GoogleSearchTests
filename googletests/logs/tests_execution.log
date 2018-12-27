@@ -1,0 +1,278 @@
+10 Oct 2018 20:56:28.377 [INFO] [setUpDriver] FireFox driver is used 
+ 10 Oct 2018 20:56:28.497 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 10 Oct 2018 20:56:28.498 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:28.498 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:28.498 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 openFeedbackWizard       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 10 Oct 2018 20:56:28.498 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:28.498 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:28.515 [INFO] [beforeMethod] All cookies was deleted before test 
+ 10 Oct 2018 20:56:28.515 [INFO] [onTestStart] Test started 
+ 10 Oct 2018 20:56:28.805 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 10 Oct 2018 20:56:30.240 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 10 Oct 2018 20:56:30.245 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 10 Oct 2018 20:56:30.254 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 10 Oct 2018 20:56:30.265 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 10 Oct 2018 20:56:30.284 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:56:30.285 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 10 Oct 2018 20:56:30.339 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 10 Oct 2018 20:56:30.341 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 10 Oct 2018 20:56:30.360 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 10 Oct 2018 20:56:30.360 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:56:31.586 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:56:31.634 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:56:31.653 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:56:31.714 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:56:31.730 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:56:31.730 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:56:31.772 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:56:31.775 [INFO] [beforeFindBy] Try to find element by By.id: google-feedback-wizard selector 
+ 10 Oct 2018 20:56:32.002 [INFO] [afterFindBy] Element was found by By.id: google-feedback-wizard selector 
+ 10 Oct 2018 20:56:32.092 [INFO] [onTestSuccess] Test openFeedbackWizard PASSED 
+ 10 Oct 2018 20:56:32.092 [INFO] [onTestSuccess] Priority of this test is 1 
+ 10 Oct 2018 20:56:33.429 [INFO] [afterMethod] Browser was closed 
+ 10 Oct 2018 20:56:33.430 [INFO] [afterMethod] All cookies was deleted after test 
+ 10 Oct 2018 20:56:33.430 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:56:33.430 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:56:33.430 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:56:33.430 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:56:33.430 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:56:33.430 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:56:37.027 [INFO] [setUpDriver] FireFox driver is used 
+ 10 Oct 2018 20:56:37.047 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 10 Oct 2018 20:56:37.047 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:37.047 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:37.047 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 sendFeedbackWithAttachment       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 10 Oct 2018 20:56:37.047 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:37.048 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:56:37.070 [INFO] [beforeMethod] All cookies was deleted before test 
+ 10 Oct 2018 20:56:37.071 [INFO] [onTestStart] Test started 
+ 10 Oct 2018 20:56:37.076 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 10 Oct 2018 20:56:38.531 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 10 Oct 2018 20:56:38.533 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 10 Oct 2018 20:56:38.545 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 10 Oct 2018 20:56:38.545 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 10 Oct 2018 20:56:38.553 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:56:38.553 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 10 Oct 2018 20:56:38.581 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 10 Oct 2018 20:56:38.582 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 10 Oct 2018 20:56:38.592 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 10 Oct 2018 20:56:38.592 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:56:39.691 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:56:39.694 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:56:39.701 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:56:39.702 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:56:39.725 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:56:49.766 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:56:49.773 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:56:59.818 [INFO] [beforeFindBy] Try to find element by By.tagName: textarea selector 
+ 10 Oct 2018 20:56:59.825 [INFO] [afterFindBy] Element was found by By.tagName: textarea selector 
+ 10 Oct 2018 20:56:59.826 [INFO] [beforeChangeValueOf] Try to changes value for element to Test 
+ 10 Oct 2018 20:56:59.843 [INFO] [afterChangeValueOf] Value for element was changedTest 
+ 10 Oct 2018 20:57:09.879 [INFO] [beforeFindBy] Try to find element by By.xpath: //button[@key='send'] selector 
+ 10 Oct 2018 20:57:09.885 [INFO] [afterFindBy] Element was found by By.xpath: //button[@key='send'] selector 
+ 10 Oct 2018 20:57:09.885 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:57:10.605 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:57:10.617 [INFO] [onTestSuccess] Test sendFeedbackWithAttachment PASSED 
+ 10 Oct 2018 20:57:10.618 [INFO] [onTestSuccess] Priority of this test is 2 
+ 10 Oct 2018 20:57:11.619 [INFO] [afterMethod] Browser was closed 
+ 10 Oct 2018 20:57:11.619 [INFO] [afterMethod] All cookies was deleted after test 
+ 10 Oct 2018 20:57:11.619 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:11.619 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:11.620 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:11.620 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:11.620 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:57:11.620 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:57:15.153 [INFO] [setUpDriver] FireFox driver is used 
+ 10 Oct 2018 20:57:15.179 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 10 Oct 2018 20:57:15.179 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:15.180 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:15.180 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 cancelFeedback       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 10 Oct 2018 20:57:15.180 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:15.180 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:15.202 [INFO] [beforeMethod] All cookies was deleted before test 
+ 10 Oct 2018 20:57:15.203 [INFO] [onTestStart] Test started 
+ 10 Oct 2018 20:57:15.210 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 10 Oct 2018 20:57:16.601 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 10 Oct 2018 20:57:16.602 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 10 Oct 2018 20:57:16.614 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 10 Oct 2018 20:57:16.615 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 10 Oct 2018 20:57:16.622 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:57:16.622 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 10 Oct 2018 20:57:16.652 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 10 Oct 2018 20:57:16.653 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 10 Oct 2018 20:57:16.661 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 10 Oct 2018 20:57:16.661 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:57:17.710 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:57:17.713 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:57:17.725 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:57:17.725 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:57:17.749 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:57:27.792 [INFO] [beforeFindBy] Try to find element by By.tagName: textarea selector 
+ 10 Oct 2018 20:57:27.800 [INFO] [afterFindBy] Element was found by By.tagName: textarea selector 
+ 10 Oct 2018 20:57:27.800 [INFO] [beforeChangeValueOf] Try to changes value for element to Test 
+ 10 Oct 2018 20:57:27.818 [INFO] [afterChangeValueOf] Value for element was changedTest 
+ 10 Oct 2018 20:57:37.864 [INFO] [beforeFindBy] Try to find element by By.xpath: //button[@key='cancel'] selector 
+ 10 Oct 2018 20:57:37.871 [INFO] [afterFindBy] Element was found by By.xpath: //button[@key='cancel'] selector 
+ 10 Oct 2018 20:57:37.872 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:57:37.943 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:57:37.956 [INFO] [onTestSuccess] Test cancelFeedback PASSED 
+ 10 Oct 2018 20:57:37.958 [INFO] [onTestSuccess] Priority of this test is 3 
+ 10 Oct 2018 20:57:38.669 [INFO] [afterMethod] Browser was closed 
+ 10 Oct 2018 20:57:38.669 [INFO] [afterMethod] All cookies was deleted after test 
+ 10 Oct 2018 20:57:38.669 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:38.669 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:38.670 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:38.670 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:57:38.670 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:57:38.670 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:57:42.208 [INFO] [setUpDriver] FireFox driver is used 
+ 10 Oct 2018 20:57:42.243 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 10 Oct 2018 20:57:42.243 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:42.244 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:42.244 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 sendFeedbackNoText       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 10 Oct 2018 20:57:42.244 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:42.244 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:57:42.257 [INFO] [beforeMethod] All cookies was deleted before test 
+ 10 Oct 2018 20:57:42.258 [INFO] [onTestStart] Test started 
+ 10 Oct 2018 20:57:42.263 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 10 Oct 2018 20:57:43.608 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 10 Oct 2018 20:57:43.609 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 10 Oct 2018 20:57:43.620 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 10 Oct 2018 20:57:43.620 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 10 Oct 2018 20:57:43.627 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:57:43.627 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 10 Oct 2018 20:57:43.655 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 10 Oct 2018 20:57:43.657 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 10 Oct 2018 20:57:43.665 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 10 Oct 2018 20:57:43.665 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:57:44.924 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:57:44.927 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:57:44.934 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:57:44.934 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:57:44.955 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:57:54.995 [INFO] [beforeFindBy] Try to find element by By.tagName: textarea selector 
+ 10 Oct 2018 20:57:55.003 [INFO] [afterFindBy] Element was found by By.tagName: textarea selector 
+ 10 Oct 2018 20:57:55.003 [INFO] [beforeChangeValueOf] Try to changes value for element to  
+ 10 Oct 2018 20:57:55.015 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:58:05.041 [INFO] [beforeFindBy] Try to find element by By.xpath: //button[@key='send'] selector 
+ 10 Oct 2018 20:58:05.047 [INFO] [afterFindBy] Element was found by By.xpath: //button[@key='send'] selector 
+ 10 Oct 2018 20:58:05.048 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:58:05.266 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:58:05.274 [INFO] [beforeFindBy] Try to find element by By.id: google-feedback-wizard selector 
+ 10 Oct 2018 20:58:05.280 [INFO] [afterFindBy] Element was found by By.id: google-feedback-wizard selector 
+ 10 Oct 2018 20:58:15.324 [INFO] [beforeFindBy] Try to find element by By.xpath: //div[@key='description-error'] selector 
+ 10 Oct 2018 20:58:15.330 [INFO] [afterFindBy] Element was found by By.xpath: //div[@key='description-error'] selector 
+ 10 Oct 2018 20:58:15.358 [INFO] [onTestSuccess] Test sendFeedbackNoText PASSED 
+ 10 Oct 2018 20:58:15.359 [INFO] [onTestSuccess] Priority of this test is 3 
+ 10 Oct 2018 20:58:16.053 [INFO] [afterMethod] Browser was closed 
+ 10 Oct 2018 20:58:16.053 [INFO] [afterMethod] All cookies was deleted after test 
+ 10 Oct 2018 20:58:16.053 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:58:16.053 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:58:16.053 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:58:16.053 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:58:16.054 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:58:16.054 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:58:19.528 [INFO] [setUpDriver] FireFox driver is used 
+ 10 Oct 2018 20:58:19.552 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 10 Oct 2018 20:58:19.553 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:58:19.553 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:58:19.553 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 sendFeedbackWithoutAttachment       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 10 Oct 2018 20:58:19.553 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:58:19.553 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:58:19.574 [INFO] [beforeMethod] All cookies was deleted before test 
+ 10 Oct 2018 20:58:19.575 [INFO] [onTestStart] Test started 
+ 10 Oct 2018 20:58:19.579 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 10 Oct 2018 20:58:20.962 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 10 Oct 2018 20:58:20.963 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 10 Oct 2018 20:58:20.974 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 10 Oct 2018 20:58:20.974 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 10 Oct 2018 20:58:20.983 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:58:20.984 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 10 Oct 2018 20:58:21.010 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 10 Oct 2018 20:58:21.011 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 10 Oct 2018 20:58:21.019 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 10 Oct 2018 20:58:21.020 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:58:22.107 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:58:22.110 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:58:22.119 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:58:22.120 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:58:22.140 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:58:32.180 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:58:32.187 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:58:42.226 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:58:42.232 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:58:42.239 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:58:42.247 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:58:42.247 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:58:42.465 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:58:52.492 [INFO] [beforeFindBy] Try to find element by By.tagName: textarea selector 
+ 10 Oct 2018 20:58:52.499 [INFO] [afterFindBy] Element was found by By.tagName: textarea selector 
+ 10 Oct 2018 20:58:52.500 [INFO] [beforeChangeValueOf] Try to changes value for element to Test 
+ 10 Oct 2018 20:58:52.513 [INFO] [afterChangeValueOf] Value for element was changedTest 
+ 10 Oct 2018 20:59:02.548 [INFO] [beforeFindBy] Try to find element by By.xpath: //button[@key='send'] selector 
+ 10 Oct 2018 20:59:02.553 [INFO] [afterFindBy] Element was found by By.xpath: //button[@key='send'] selector 
+ 10 Oct 2018 20:59:02.554 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:59:02.819 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:59:02.826 [INFO] [onTestSuccess] Test sendFeedbackWithoutAttachment PASSED 
+ 10 Oct 2018 20:59:02.826 [INFO] [onTestSuccess] Priority of this test is 3 
+ 10 Oct 2018 20:59:03.518 [INFO] [afterMethod] Browser was closed 
+ 10 Oct 2018 20:59:03.519 [INFO] [afterMethod] All cookies was deleted after test 
+ 10 Oct 2018 20:59:03.519 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:03.519 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:03.519 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:03.519 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:03.519 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:59:03.519 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:59:06.983 [INFO] [setUpDriver] FireFox driver is used 
+ 10 Oct 2018 20:59:07.008 [INFO] [beforeMethod] Driver configuration and initialization is done 
+ 10 Oct 2018 20:59:07.009 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:59:07.009 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:59:07.009 [INFO] [startTestCase] $$$$$$$$$$$$$$$$$$$$$                 unckeckScreenshotAdding       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+ 10 Oct 2018 20:59:07.009 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:59:07.009 [INFO] [startTestCase] **************************************************************************************** 
+ 10 Oct 2018 20:59:07.023 [INFO] [beforeMethod] All cookies was deleted before test 
+ 10 Oct 2018 20:59:07.023 [INFO] [onTestStart] Test started 
+ 10 Oct 2018 20:59:07.028 [INFO] [beforeNavigateTo] Try to navigata to http:\google.com 
+ 10 Oct 2018 20:59:08.418 [INFO] [afterNavigateTo] Navigation was done to http:\google.com 
+ 10 Oct 2018 20:59:08.419 [INFO] [beforeFindBy] Try to find element by By.id: lst-ib selector 
+ 10 Oct 2018 20:59:08.428 [INFO] [afterFindBy] Element was found by By.id: lst-ib selector 
+ 10 Oct 2018 20:59:08.429 [INFO] [beforeChangeValueOf] Try to changes value for element 
+ 10 Oct 2018 20:59:08.436 [INFO] [afterChangeValueOf] Value for element was changed 
+ 10 Oct 2018 20:59:08.437 [INFO] [beforeChangeValueOf] Try to changes value for element to Testing 
+ 10 Oct 2018 20:59:08.465 [INFO] [afterChangeValueOf] Value for element was changedTesting 
+ 10 Oct 2018 20:59:08.466 [INFO] [beforeFindBy] Try to find element by By.name: btnK selector 
+ 10 Oct 2018 20:59:08.474 [INFO] [afterFindBy] Element was found by By.name: btnK selector 
+ 10 Oct 2018 20:59:08.474 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:59:09.650 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:59:09.653 [INFO] [beforeFindBy] Try to find element by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:59:09.661 [INFO] [afterFindBy] Element was found by By.xpath: //span[@id='fsl']/a[@id='dk2qOd'] selector 
+ 10 Oct 2018 20:59:09.661 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:59:09.684 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:59:19.723 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:59:19.731 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:59:19.741 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:59:19.748 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:59:19.748 [INFO] [beforeClickOn] Try to click on found element 
+ 10 Oct 2018 20:59:19.969 [INFO] [afterClickOn] Click on found element 
+ 10 Oct 2018 20:59:30.000 [INFO] [beforeFindBy] Try to find element by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:59:30.010 [INFO] [afterFindBy] Element was found by By.xpath: //input[@type='checkbox'] selector 
+ 10 Oct 2018 20:59:40.043 [INFO] [beforeFindBy] Try to find element by By.xpath: //button[@key='annotate'] selector 
+ 10 Oct 2018 20:59:50.061 [INFO] [onException] Exception was thrown org.openqa.selenium.NoSuchElementException: Unable to locate element: //button[@key='annotate']
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'WS79', ip: '192.168.2.79', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.22.0, moz:headless: false, moz:processID: 33248, moz:profile: C:\Users\jaroslaw.romanovic..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 09650da8-7ba7-4391-9bbc-310f83074a32
+*** Element info: {Using=xpath, value=//button[@key='annotate']} 
+ 10 Oct 2018 20:59:50.066 [INFO] [onTestSuccess] Test unckeckScreenshotAdding PASSED 
+ 10 Oct 2018 20:59:50.066 [INFO] [onTestSuccess] Priority of this test is 4 
+ 10 Oct 2018 20:59:50.770 [INFO] [afterMethod] Browser was closed 
+ 10 Oct 2018 20:59:50.770 [INFO] [afterMethod] All cookies was deleted after test 
+ 10 Oct 2018 20:59:50.770 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:50.770 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:50.770 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:50.770 [INFO] [endTestCase] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+ 10 Oct 2018 20:59:50.770 [INFO] [endTestCase]                                                                                          
+ 10 Oct 2018 20:59:50.771 [INFO] [endTestCase]                                                                                          
+ 

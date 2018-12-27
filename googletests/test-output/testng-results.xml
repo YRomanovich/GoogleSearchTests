@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="207738" started-at="2018-10-10T17:56:23Z" finished-at="2018-10-10T17:59:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="207738" started-at="2018-10-10T17:56:23Z" finished-at="2018-10-10T17:59:50Z">
+      <class name="googletests.tests.FeedbackWizardTests">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="beforeMethod" is-config="true" duration-ms="5387" started-at="2018-10-10T17:56:23Z" finished-at="2018-10-10T17:56:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googletests.tests.FeedbackWizardTests.openFeedbackWizard()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openFeedbackWizard()[pri:1, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="openFeedbackWizard" duration-ms="3576" started-at="2018-10-10T17:56:28Z" description="Open Google feedback wizaed" finished-at="2018-10-10T17:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFeedbackWizard -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="afterMethod" is-config="true" duration-ms="1332" started-at="2018-10-10T17:56:32Z" finished-at="2018-10-10T17:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="beforeMethod" is-config="true" duration-ms="3636" started-at="2018-10-10T17:56:33Z" finished-at="2018-10-10T17:56:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googletests.tests.FeedbackWizardTests.sendFeedbackWithAttachment()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sendFeedbackWithAttachment()[pri:2, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="sendFeedbackWithAttachment" duration-ms="33546" started-at="2018-10-10T17:56:37Z" description="Send feedback with attachment" finished-at="2018-10-10T17:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendFeedbackWithAttachment -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="afterMethod" is-config="true" duration-ms="1000" started-at="2018-10-10T17:57:10Z" finished-at="2018-10-10T17:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="beforeMethod" is-config="true" duration-ms="3581" started-at="2018-10-10T17:57:11Z" finished-at="2018-10-10T17:57:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googletests.tests.FeedbackWizardTests.cancelFeedback()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="cancelFeedback()[pri:3, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="cancelFeedback" duration-ms="22754" started-at="2018-10-10T17:57:15Z" description="Calcel feedback sending" finished-at="2018-10-10T17:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelFeedback -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="afterMethod" is-config="true" duration-ms="710" started-at="2018-10-10T17:57:37Z" finished-at="2018-10-10T17:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="beforeMethod" is-config="true" duration-ms="3587" started-at="2018-10-10T17:57:38Z" finished-at="2018-10-10T17:57:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googletests.tests.FeedbackWizardTests.sendFeedbackNoText()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sendFeedbackNoText()[pri:3, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="sendFeedbackNoText" duration-ms="33100" started-at="2018-10-10T17:57:42Z" description="Try to send feedback without text" finished-at="2018-10-10T17:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendFeedbackNoText -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="afterMethod" is-config="true" duration-ms="694" started-at="2018-10-10T17:58:15Z" finished-at="2018-10-10T17:58:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="beforeMethod" is-config="true" duration-ms="3521" started-at="2018-10-10T17:58:16Z" finished-at="2018-10-10T17:58:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googletests.tests.FeedbackWizardTests.sendFeedbackWithoutAttachment()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sendFeedbackWithoutAttachment()[pri:3, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="sendFeedbackWithoutAttachment" duration-ms="43251" started-at="2018-10-10T17:58:19Z" description="Send feedback without attachment" finished-at="2018-10-10T17:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendFeedbackWithoutAttachment -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="afterMethod" is-config="true" duration-ms="691" started-at="2018-10-10T17:59:02Z" finished-at="2018-10-10T17:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method, java.lang.String)[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="beforeMethod" is-config="true" duration-ms="3503" started-at="2018-10-10T17:59:03Z" finished-at="2018-10-10T17:59:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void googletests.tests.FeedbackWizardTests.unckeckScreenshotAdding()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="unckeckScreenshotAdding()[pri:4, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="unckeckScreenshotAdding" duration-ms="43043" started-at="2018-10-10T17:59:07Z" description="Check wizard UI after unkecking of Add Screenshot" finished-at="2018-10-10T17:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unckeckScreenshotAdding -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:googletests.tests.FeedbackWizardTests@a0bdbe2]" name="afterMethod" is-config="true" duration-ms="703" started-at="2018-10-10T17:59:50Z" finished-at="2018-10-10T17:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- googletests.tests.FeedbackWizardTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

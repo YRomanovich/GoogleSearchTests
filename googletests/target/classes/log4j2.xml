@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN">
+    <Appenders>
+        <File name="FileLogger" fileName="logs/tests_execution.log" append="false">
+            <PatternLayout pattern="%d{dd MMM yyyy HH:mm:ss.SSS} [%level] [%M] %m %n %throwable{20}" />
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="FileLogger" />
+        </Root>
+    </Loggers>
+</configuration>
