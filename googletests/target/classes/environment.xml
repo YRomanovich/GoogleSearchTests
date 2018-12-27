@@ -1,0 +1,20 @@
+<qa:environment xmlns:qa="urn:model.commons.qatools.yandex.ru">
+    <id>2a54c4d7-7d79-4615-b80d-ffc1107016a1</id>
+    <name>Google search tests</name>
+    <parameter>
+        <key>Browser</key>
+        <value>Firefox</value>
+    </parameter>
+    <parameter>
+        <key>Environment</key>
+        <value>Production</value>
+    </parameter>
+    <parameter>
+        <key>OS</key>
+        <value>Windows</value>
+    </parameter>
+    <parameter>
+        <key>Test stand</key>
+        <value>http://google.com</value>
+    </parameter>
+</qa:environment>  
