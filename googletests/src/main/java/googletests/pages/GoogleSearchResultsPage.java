@@ -8,9 +8,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
+import googletests.components.FooterMenu;
 import ru.yandex.qatools.allure.annotations.Step;
 
 public class GoogleSearchResultsPage extends BasePage {
@@ -20,14 +19,14 @@ public class GoogleSearchResultsPage extends BasePage {
 	private WebElement searchField;
 	
 	@FindBy(how = How.XPATH, xpath="//*[@class='bkWMgd']//div[@class='rc']/h3[@class='r']/a | //*[@class='bkWMgd']//div[@class='rc']//a//h3")
-	@CacheLookup
 	private List<WebElement> searchResults;
 	
 	@FindBy(id="logo")
 	@CacheLookup
 	private WebElement googleLogo;
 	
-	WebDriverWait wait = new WebDriverWait(driver,10);
+	@FindBy(how = How.XPATH, xpath="//div[@key='thanks']")
+	private WebElement thanksForFeedback;
 	
 	public GoogleSearchResultsPage(WebDriver driver) {
 		super(driver);
@@ -67,7 +66,7 @@ public class GoogleSearchResultsPage extends BasePage {
 	@Step("Check that search results contain {0}")
 	public Boolean containsSearchText(String textToSearch) {
 		Boolean contains = false;
-		wait.until(ExpectedConditions.visibilityOf(googleLogo));
+
 		List<String> results = new ArrayList<String>(this.getSearchResults());
 		
 		for(String result : results) {
@@ -84,5 +83,18 @@ public class GoogleSearchResultsPage extends BasePage {
 	public String getSearchValue() {
 		String resultValue = searchField.getAttribute("value");
 		return resultValue;
+	}
+	
+	@Step("Get footer menu")
+	public FooterMenu footerMenu() {
+		return new FooterMenu(driver);
+	}
+	
+	@Step("Check thanks test after feedback has been sent")
+	public Boolean isThanksWizardDisplayed() {
+		String pageSource = driver.getPageSource();
+		Boolean isThanksDisplayed = pageSource.contains("thanks");
+		
+		return isThanksDisplayed;
 	}
 }

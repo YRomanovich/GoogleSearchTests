@@ -1,6 +1,5 @@
 package googletests.listeners;
 
-import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;

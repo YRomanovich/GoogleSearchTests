@@ -133,7 +133,7 @@ public class EventListener implements WebDriverEventListener {
 	@Override
 	public <X> void beforeGetScreenshotAs(OutputType<X> type) {
 		System.out.println("[Action] - Try to tacke a screenshot");	
-		log.info("Try to tacke a screenshot");
+		log.info("Try to take a screenshot");
 	}
 
 	@Override
